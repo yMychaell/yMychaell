@@ -56,6 +56,6 @@ para me tornar um Desenvolvedor Web Full-Stack e ingressar área de TI.
    
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=yMychaell&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
    
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMychaell&layout=compact&langs_count=10&theme=midnight-purple">
+  <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMychaell&layout=compact&langs_count=10&theme=midnight-purple">
    
  </div>
