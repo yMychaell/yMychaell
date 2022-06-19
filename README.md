@@ -6,7 +6,7 @@
 
 ```
 Descobri minha paixão por programação no final de 2021 e desde então iniciei minha jornada de estudos
-para me tornar um Desenvolvedor Web Full-Stack e ingressar área de TI.
+para me tornar um Desenvolvedor Web Full-Stack e ingressar na área de TI.
 ```
 
 <h3>:mailbox: Deseja entrar em contato comigo ?</h3>
@@ -52,10 +52,15 @@ para me tornar um Desenvolvedor Web Full-Stack e ingressar área de TI.
   
   
  <h3>:octocat: GitHub Status</h3>
+   
  <div align="center">
    
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=yMychaell&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api?username=yMychaell&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
    
   <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMychaell&layout=compact&langs_count=10&theme=midnight-purple">
    
  </div>
+   
+   <br>
+   
+![](https://komarev.com/ghpvc/?username=yMychaell&style=for-the-badge&label=PROFILE+VIEWS&color=blueviolet)
